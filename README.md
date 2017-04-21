@@ -11,8 +11,7 @@
 ## リポジトリ
 
 - [Server](https://github.com/tikasan/eventory)
-- [iOS](https://github.com/tikasan/eventoryiOS)
-- [Android](https://github.com/KokiKono/Eventory)
+- [React Native](https://github.com/KokiKono/eventory_react)
 
 ## 使用技術
 
