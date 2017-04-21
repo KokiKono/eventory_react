@@ -6,7 +6,7 @@
 同じようなワードで複数の類似サイトで検索するという面倒を解消。  
 興味のあるワードをあらかじめ設定し、それに対して必要な情報とそうじゃない情報を分別します。そして、また新しい情報が入ってくるまでは放置するだけです。  
 
-![イメージ図](https://github.com/tikasan/eventory/blob/master/doc/eventory_plan.png?raw=true)
+![イメージ図](https://github.com/tikasan/eventory-assets/blob/master/doc/eventory_plan.png?raw=true)
 
 ## リポジトリ
 
