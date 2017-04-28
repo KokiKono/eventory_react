@@ -14,7 +14,7 @@ import {
     Text,
     View
 } from 'react-native'
-import GlobalStyles from '../../res/styles/GlobalStyles'
+import GlobalStyles from '../../res/GlobalStyles';
 const NAV_BAR_HEIGHT_IOS = GlobalStyles.nav_bar_height_ios;
 const NAV_BAR_HEIGHT_ANDROID = GlobalStyles.nav_bar_height_android;
 const STATUS_BAR_HEIGHT = 20;
@@ -165,7 +165,7 @@ class NavBarButton extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: '#4caf50',
+        backgroundColor: '#E67E22',
     },
     navBar: {
         flexDirection: 'row',

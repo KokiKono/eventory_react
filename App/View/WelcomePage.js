@@ -9,7 +9,7 @@ import {
   Platform
 } from 'react-native';
 import SplashScreen from 'react-native-splash-screen';
-import HomePage from './HomePage'
+import HomePage from './HomePage';
 
 export default class WelcomePage extends React.Component{
   componentDidMount(){

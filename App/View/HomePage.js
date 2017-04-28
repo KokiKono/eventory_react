@@ -4,6 +4,7 @@ import React from 'react';
 import {
   View
 } from 'react-native';
+import EventList from './EventList';
 
 export var TABS = {
   tab_new:'新着',tab_pickup:'注目'
@@ -15,7 +16,11 @@ export default class HomePage extends React.Component{
   }
   render(){
     return(
-      <View/>
+      <View>
+        <EventList>
+          
+        </EventList>
+      </View>
     );
   }
 }

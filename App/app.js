@@ -6,7 +6,8 @@ import {
 } from 'react-native';
 //SplashScreen がうまく動作しない...
 //import WelcomePage from './View/WelcomePage';
-import HomePage from './View/HomePage'
+import HomePage from './View/HomePage';
+
 export default class App extends React.Component{
   constructor(props){
     super(props);
