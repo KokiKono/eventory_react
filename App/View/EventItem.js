@@ -17,7 +17,7 @@ export default class EventItem extends React.Component {
     var period = this.props.item.startAt + '~' + this.props.item.endAt;
     var limitBar = this.props.item.wait + '/定員' + this.props.item.limits + '人';
     return (
-      <ListItem style={styles.container}>
+      <ListItem  key={this.props.item.id}>
         <View style={styles.flatView}>
           <Content>
             <Text style={[styles.titleView, styles.content]} ellipsizeMode='tail' numberOfLines={1}>{this.props.item.name}</Text>
