@@ -11,6 +11,7 @@
     "native-base": "^2.1.2",
     "react": "16.0.0-alpha.6",
     "react-native": "0.43.4",
+    "react-native-scrollable-tab-view": "^0.6.5",
     "react-native-splash-screen": "^2.0.0",
     "react-native-tab-navigator": "^0.3.3",
     "realm": "^1.2.0"
